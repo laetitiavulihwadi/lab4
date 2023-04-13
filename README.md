@@ -1,2 +1,3 @@
 # lab4
-OOP3 lab for learning git
+OOP3 lab for learning git 
+FOR LAETITIA VULIHWADI AND BENEDICTE MAKELELE
